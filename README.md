@@ -1,8 +1,10 @@
-Ohm's Law and Power Calculator
+Ohm's Law and Electrical Power Calculator
+
+A Python Mini Project | CTE123 | YabaTech
 
 What it does
 
-The Ohm's Law and Power Calculator is a Python program designed to calculate voltage, current, resistance and electrical power. It allows users to select the type of calculation they want, enter the required values and receive the calculated answer with the correct unit.
+The Ohm's Law and Electrical Power Calculator is a Python program designed to calculate voltage, current, resistance and electrical power. It allows users to select the type of calculation they want, enter the required values and receive accurate results with the correct units.
 
 How to run it
 
@@ -11,7 +13,7 @@ How to run it
 3. Open the project folder.
 4. Run the following command:
 
-python ohms_law.py
+python Ohms_Law_Calculator.py
 
 Sample output
 
