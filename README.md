@@ -13,7 +13,7 @@ How to run it
 3. Open the project folder.
 4. Run the following command:
 
-python Ohms_Law_Calculator.py
+ Ohms_Law_Calculator.py
 
 Sample output
 
